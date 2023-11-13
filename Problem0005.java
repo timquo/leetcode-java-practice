@@ -1,4 +1,4 @@
-public class Problem5 {
+public class Problem0005 {
     public static void main(String[] args) {
         /*
             Given a string s, return the longest palindromic substring in s.
